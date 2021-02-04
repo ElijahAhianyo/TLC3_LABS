@@ -1,1 +1,0 @@
-const int* enterNumbers(int);

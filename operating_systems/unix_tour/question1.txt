@@ -1,4 +1,0 @@
-1) Command to display system current date: date
-2) Command to display the current working directory: pwd
-3) Command to display the current loggin user: whoami
-4) Command to display login users and their respective ttys: who.

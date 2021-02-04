@@ -1,3 +1,0 @@
-1) Number of entries in current directory: ls .|wc -l
-2) Number of entries in /etc directory: ls /etc/ | wc -l
-3) Number of entries in current directory have digits in name: ls *[0-9]*|wc -l
